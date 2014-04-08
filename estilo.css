@@ -44,7 +44,11 @@ nav ul li a
 #textopr
 {
     width: 900px;
+<<<<<<< HEAD
     height: auto;
+=======
+    height: 300px;
+>>>>>>> f5bc8c0dccc8eb7d0e3e76aa8151fbb6851d5962
     background-color: #78aaff;
     color: #FFF;
     margin: 0 auto;
