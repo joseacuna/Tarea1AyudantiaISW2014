@@ -21,7 +21,7 @@
 
         <div id='textopr'>
             <article>
-                <div class="Foto"><img  style="float:right" src="/Tarea1Ayudantia/Fotos/jose.jpg" alt ='jose' width='160' height='150'></div>
+                <div class="Foto"><img  style="float:right" src="http://localhost/tareas/Tarea1Ayudantia/Fotos/jose.jpg" alt ='jose' width='160' height='150'></div>
                 <div id='NombreTitulo'>
                     <h1>José Acuña</h1>
                 </div>
@@ -32,7 +32,7 @@
             </article>
             <div class="hr"><hr /></div>
 	    <article>
-                <div class="Foto"><img  style="float:right" src="/Tarea1Ayudantia/Fotos/luis.jpg" alt ='luis' width='160' height='150'></div>
+                <div class="Foto"><img  style="float:right" src="http://localhost/tareas/Tarea1Ayudantia/Fotos/luis.jpg" alt ='luis' width='160' height='150'></div>
                 <div id='NombreTitulo'>
                     <h1>Luis Sandoval</h1>
                 </div>
