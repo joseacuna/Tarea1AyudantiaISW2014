@@ -9,11 +9,7 @@
 <div id="contenido">
     <header>
         <div id="Titulo Principal">
-<<<<<<< HEAD
-            <h1>Tarea N°1</h1>
-=======
             <h1>Tarea N°2</h1>
->>>>>>> f5bc8c0dccc8eb7d0e3e76aa8151fbb6851d5962
         </div>
         <nav>
             <ul>
@@ -25,11 +21,8 @@
 
         <div id='textopr'>
             <article>
-<<<<<<< HEAD
-                <div class="Foto"><img  style="float:right" src="http://localhost/tareas/Tarea1Ayudantia/Fotos/jose.jpg" alt ='jose' width='160' height='150'></div>
-=======
-                <div class="Foto"><img  style="float:right" src="/Tarea1Ayudantia/Fotos/jose.jpg" alt ='jose' width='160' height='150'></div>
->>>>>>> f5bc8c0dccc8eb7d0e3e76aa8151fbb6851d5962
+                <div class="Foto"><img  style="float:right" src="http://localhost/Tarea1Ayudantia/Fotos/jose.jpg" alt ='jose' width='160' height='150'></div>
+
                 <div id='NombreTitulo'>
                     <h1>José Acuña</h1>
                 </div>
@@ -38,10 +31,11 @@
                 <p> Carrera:Ingenieria en Informatica.</p>
                 <p>  Asignatura: Ingenieria en Software</p>
             </article>
-<<<<<<< HEAD
+
             <div class="hr"><hr /></div>
-	    <article>
-                <div class="Foto"><img  style="float:right" src="http://localhost/tareas/Tarea1Ayudantia/Fotos/luis.jpg" alt ='luis' width='160' height='150'></div>
+            
+	    		<article>
+                <div class="Foto"><img  style="float:right" src="http://localhost/Tarea1Ayudantia/Fotos/luis.jpg" alt ='luis' width='160' height='150'></div>
                 <div id='NombreTitulo'>
                     <h1>Luis Sandoval</h1>
                 </div>
@@ -50,20 +44,13 @@
                 <p> Carrera:Ingenieria en Informatica.</p>
                 <p>  Asignatura: Ingenieria en Software</p>
             </article>
-	</div>
-=======
->>>>>>> f5bc8c0dccc8eb7d0e3e76aa8151fbb6851d5962
+		</div>
             <aside>
                 <p>
                     Visita Nuestro Repositorio <a href="https://github.com/joseacuna"> Github</a>
                 </p>
 
             </aside>
-<<<<<<< HEAD
-
-=======
-        </div>
->>>>>>> f5bc8c0dccc8eb7d0e3e76aa8151fbb6851d5962
     </section>
 </div>
 </body>
@@ -81,11 +68,7 @@
     );
     $numero = rand(1,6);
     echo "$vector[$numero]";
-<<<<<<< HEAD
     ?>
-=======
-?>
->>>>>>> f5bc8c0dccc8eb7d0e3e76aa8151fbb6851d5962
     </p>
 </footer>
 </html>
