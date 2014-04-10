@@ -44,6 +44,21 @@
                 <p> Carrera:Ingenieria en Informatica.</p>
                 <p>  Asignatura: Ingenieria en Software</p>
             </article>
+            
+            <div class="hr"><hr /></div>
+            
+            <article>
+                <div class="Foto"><img  style="float:right" src="http://localhost/Tarea1Ayudantia/Fotos/christian.jpg" alt ='christian' width='160' height='150'></div>
+                <div id='NombreTitulo'>
+                    <h1>Christian Trujillo</h1>
+                </div>
+                <p>Nombre: Christian Trujillo</p>
+                <p> Rut:17.417.261-7</p>
+                <p> Carrera:Ingenieria en Informatica.</p>
+                <p>  Asignatura: Ingenieria en Software</p>
+            </article>
+            
+            
 		</div>
             <aside>
                 <p>
