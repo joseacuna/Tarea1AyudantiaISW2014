@@ -53,8 +53,8 @@
                     <h1>Christian Trujillo</h1>
                 </div>
                 <p>Nombre: Christian Trujillo</p>
-                <p> Rut:17.417.261-7</p>
-                <p> Carrera:Ingenieria en Informatica.</p>
+                <p> Rut: 17.417.261-7</p>
+                <p> Carrera: Ingenieria en Informatica.</p>
                 <p>  Asignatura: Ingenieria en Software</p>
             </article>
             
