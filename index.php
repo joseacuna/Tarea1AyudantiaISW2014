@@ -9,19 +9,23 @@
 <div id="contenido">
     <header>
         <div id="Titulo Principal">
-            <h1>Tarea N°2</h1>
+            <h1>Tarea N°1 de Ayudantía de Ingenieria en Software</h1>
         </div>
+        <p>Nuestras direcciones de github son:</p>
         <nav>
             <ul>
-                <li><a href='Index.php'>Jose Acuña</a></li>
+                <li><a href=https://github.com/joseacuna/>Jose Acuña</a></li>
+                <li><a href=https://github.com/Igsand>Luis Sandoval</a></li>
+                <li> <a href=https://github.com/christiantrujillo>Christian Trujillo</a> </li>
             </ul>
+
         </nav>
     </header>
     <section>
 
         <div id='textopr'>
             <article>
-                <div class="Foto"><img  style="float:right" src="http://localhost/Tarea1Ayudantia/Fotos/jose.jpg" alt ='jose' width='160' height='150'></div>
+                <div class="Foto"><img  style="float:right" src="Fotos/jose.jpg" alt ='jose' width='160' height='150'></div>
 
                 <div id='NombreTitulo'>
                     <h1>José Acuña</h1>
@@ -35,7 +39,7 @@
             <div class="hr"><hr /></div>
             
 	    		<article>
-                <div class="Foto"><img  style="float:right" src="http://localhost/Tarea1Ayudantia/Fotos/luis.jpg" alt ='luis' width='160' height='150'></div>
+                <div class="Foto"><img  style="float:right" src="Fotos/luis.jpg" alt ='luis' width='160' height='150'></div>
                 <div id='NombreTitulo'>
                     <h1>Luis Sandoval</h1>
                 </div>
@@ -48,7 +52,7 @@
             <div class="hr"><hr /></div>
             
             <article>
-                <div class="Foto"><img  style="float:right" src="http://localhost/Tarea1Ayudantia/Fotos/christian.jpg" alt ='christian' width='160' height='150'></div>
+                <div class="Foto"><img  style="float:right" src="Fotos/christian.jpg" alt ='christian' width='160' height='150'></div>
                 <div id='NombreTitulo'>
                     <h1>Christian Trujillo</h1>
                 </div>
@@ -62,7 +66,7 @@
 		</div>
             <aside>
                 <p>
-                    Visita Nuestro Repositorio <a href="https://github.com/joseacuna"> Github</a>
+                    Visita El Repositorio De Este Sitio en <a href="https://github.com/joseacuna/Tarea1AyudantiaISW2014"> Github</a>
                 </p>
 
             </aside>
